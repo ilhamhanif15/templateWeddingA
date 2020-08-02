@@ -3,7 +3,7 @@ $bgPrimaryLight : #77ACA2;
 $bgHover : #F4E9CD;
 
 .section_1 {
-  background-image: url("/images/bg-1.jpg");
+  background-image: url("./images/bg-1.jpg");
   height: 100vh;
   margin-top: -56px;
   background-position: center;
@@ -171,7 +171,7 @@ $white: #ffffff;
 }
 
 .section_4 {
-  background-image: url('/images/pattern_1.jpg');
+  background-image: url('./images/pattern_1.jpg');
   background-size: cover;
   height: 100vh;
   background-position: center;
@@ -216,7 +216,7 @@ $white: #ffffff;
 
 footer {
   height: 45vh;
-  background-image: url("/images/bg-1.jpg");
+  background-image: url("./images/bg-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
